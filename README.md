@@ -30,6 +30,9 @@ I'm a third-year Computer Science student passionate about building meaningful s
 <a href="https://github.com/LaVireak/TrashIQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaVireak&repo=TrashIQ&theme=buefy" />
 </a>
+<a href="https://github.com/LaVireak/gamelisting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaVireak&repo=gamelisting&theme=buefy" />
+</a>
 <a href="https://github.com/LaVireak/Spending_Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaVireak&repo=Spending_Tracker&theme=buefy" />
 </a>
