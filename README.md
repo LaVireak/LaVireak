@@ -1,31 +1,24 @@
-### Hello, I'm Vireak La 👋
+## Hi, I'm Vireak La 👋
 
-I'm a third-year Computer Science student passionate about building meaningful software solutions from Cambodia 🇰🇭
+Computer Science student and Full-Stack Developer from Cambodia 🇰🇭, passionate about building impactful software solutions.
 
-#### About me
+### 🚀 What I Do
 
-• 🎓 Computer Science Student  
-• 💻 Full-Stack Developer focused on web and mobile applications  
-• 🔭 Currently working on [TrashIQ](https://github.com/LaVireak/TrashIQ) - AI-powered waste management system  
-• 🌱 Learning React, Flutter, and exploring AI/ML fundamentals  
-• 💼 Open to internships and collaboration opportunities  
-• 💬 Ask me about anything [here](https://github.com/LaVireak/LaVireak/issues)
+- 💻 Build web and mobile applications using modern frameworks
+- 🤖 Develop AI-powered solutions like [TrashIQ](https://github.com/LaVireak/TrashIQ) - an intelligent waste management system
+- 🌱 Continuously learning and exploring React, Flutter, and AI/ML technologies
+- 🔨 Work with JavaScript, Python, Java, C/C++, and various modern tools
 
-#### Languages and Tools
+### 💼 Open to Opportunities
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+I'm actively seeking internships and collaboration opportunities. Feel free to reach out or [open an issue](https://github.com/LaVireak/LaVireak/issues) to connect!
+
+### 📊 GitHub Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LaVireak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vireak's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVireak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+### 🌟 Featured Projects
 
 <a href="https://github.com/LaVireak/TrashIQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LaVireak&repo=TrashIQ&theme=buefy" />
